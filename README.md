@@ -1,5 +1,8 @@
-# Ngọc Rồng Online
-### 📬 Source Code Backend Server game Ngọc Rồng Online
-<img width="450" height="250" src="http://ngocrongonline.com/images/banner_2.png">
+# Ngọc Rồng Online Backend
 
-### 📬 Share by GVN Team
+   - Đây chỉ là tài liệu mang tính chất học tập.
+   - This content is for educational purposes only.
+
+## Env
+
+- **JDK**: 8
